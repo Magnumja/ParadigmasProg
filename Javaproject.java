@@ -11,7 +11,7 @@ public class Javarobject {
     y = sc.nextInt();
 
     bebe.valorIdade(y);
-    bebe.mostrarTudo();
+    bebe.getIdade();
 
   }
 
