@@ -1,3 +1,4 @@
+package trabalho1;
 public class Main {
     public static void main(String[] args) {
         trabalho1 pessoa = new trabalho1();
