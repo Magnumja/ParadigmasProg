@@ -1,10 +1,11 @@
 package treinamento;
 
 public class Pessoa {
+    
     private String nome;
     private int idade;
 
-    public void setNome(String nome) {
+    public void setNome(String nome){
         this.nome = nome;
     }
 
