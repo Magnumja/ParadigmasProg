@@ -1,3 +1,4 @@
+package aulas;
 public class aula2208 {
     public static int x = 22;
     public static double y= 12.2;
