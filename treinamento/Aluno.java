@@ -10,6 +10,6 @@ public class Aluno extends Pessoa {
 
     @Override
     public void apresentar() {
-        System.out.println("Olá, meu nome é " + nome + ", tenho " + idade + " anos e faço " + curso + ".");
+        System.out.println("Olá, meu nome é " + getNome() + ", tenho " + getIdade() + " anos e faço " + curso + ".");
     }
 }
