@@ -1,15 +1,11 @@
 package treinamento;
 
 public class Pessoa {
-    
-    private String nome;
-    private int idade;
+    protected String nome;
+    protected int idade;
 
-    public void setNome(String nome){
+    public Pessoa(String nome, int idade) {
         this.nome = nome;
-    }
-
-    public void setIdade(int idade) {
         this.idade = idade;
     }
 
