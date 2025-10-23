@@ -1,7 +1,7 @@
 package treinamento;
 
 public class Pessoa {
-    protected String nome;
+    private String nome;
     protected int idade;
 
     public Pessoa(String nome, int idade) {
