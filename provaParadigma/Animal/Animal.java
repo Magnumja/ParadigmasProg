@@ -1,4 +1,4 @@
-package provaParadigma;
+package provaParadigma.Animal;
 
 class Animal {
     public void falar() {

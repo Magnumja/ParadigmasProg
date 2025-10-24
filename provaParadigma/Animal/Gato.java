@@ -1,4 +1,4 @@
-package provaParadigma;
+package provaParadigma.Animal;
 
 public class Gato extends Animal {
     @Override
